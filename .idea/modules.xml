@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/creational-pattern-3-builder.iml" filepath="$PROJECT_DIR$/creational-pattern-3-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creational-pattern-4-builder.iml" filepath="$PROJECT_DIR$/creational-pattern-4-builder.iml" />
     </modules>
   </component>
 </project>
